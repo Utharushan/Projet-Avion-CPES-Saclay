@@ -21,3 +21,16 @@ Ce projet simule la gestion d'une piste d'atterrissage d'aéroport à l'aide de 
 4. **Simulation d'Atterrissage** :
    - Animation fluide pour les avions atterrissant.
    - Mise à jour des listes pour suivre les avions atterris et détournés.
+
+## Auteurs
+
+- **MALAPERT Rémi**  
+  [remi.malapert@hec.edu](mailto:remi.malapert@hec.edu)
+- **NAMMOUS Othmane**  
+  [othmane.nammous@hec.edu](mailto:othmane.nammous@hec.edu)  
+- **UTHAYAKUMAR Tharushan**  
+  [tharushan.uthayakumar@hec.edu](mailto:tharushan.uthayakumar@hec.edu)  
+
+## Support
+
+Pour toute question ou suggestion, contactez les auteurs via les emails ci-dessus. 
